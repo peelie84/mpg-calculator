@@ -17,3 +17,5 @@ miles = raw_input('>>  ')
 journey_mpg = mpg(int(miles), gallons)
 
 print "\nToday you covered: %r miles to the gallon" % round(journey_mpg, 2)
+
+print "Thats some pretty good mileage!"
