@@ -9,8 +9,6 @@ litres = raw_input('>>  ')
 
 gallons = conversion(int(litres))
 
-print "\nYou entered: %r, which is %r gallons\n" % (litres, round(gallons, 2))
-
 print "Please enter how many miles you travelled."
 miles = raw_input('>>  ')
 
